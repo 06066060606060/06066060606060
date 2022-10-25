@@ -7,6 +7,6 @@
 - 🔬 Firmware Analyst...
 - 🖥️ Hardware Hacking...
 
-<img align="" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
