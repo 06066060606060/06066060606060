@@ -9,7 +9,7 @@
 
 <img align="" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-https://06066060606060.github.io/MyPage/
+
 
 
 
